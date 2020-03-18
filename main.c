@@ -1,2 +1,5 @@
 #include <stdio>
-int main() { return 0; }
+int main()
+{
+    return 0;
+}
